@@ -380,6 +380,76 @@
 .foot_bottom a {
 	margin-left: 10px;
 }
+/*产品分类页*/
+.navList {
+	width: 184px;
+	float: left;
+	border:1px solid #d7d7d7;
+	background-color: #f3f3f3;
+	margin-top: 18px;
+}
+.navList h2 {
+	border-bottom: 1px solid #d7d7d7;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+}
+.navList li {
+	float: left;
+	width: 50%;
+	margin-top: 10px;
+}
+.navList_item {
+	overflow: hidden;
+	border-bottom: 1px dotted #d7d7d7;
+	padding: 10px 20px;
+}
+.digital_title {
+	height: 40px;
+	border-bottom: 2px solid #ccc;
+}
+.digital_title h1 {
+	width: 180px;
+	line-height: 40px;
+	text-indent: 9px;
+	border-bottom: 2px solid #096dba;
+	height: 40px;
+}
+.digital_view {
+	width: 811px;
+	margin-bottom: 30px;
+    margin-top: -2px;
+}
+.digital_img {
+    height: 174px;
+    width: 180px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.digital_item {
+	width: 186px;
+	height: 260px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.digital_item h3 {
+	color: red;
+}
+.start {
+	width: 13px;
+	height: 12px;
+	overflow: hidden;
+	margin-right: 1px;
+	background: url(icon/start.png) left no-repeat;
+	display: inline-block;
+}
+.digital_text p {
+    line-height: 20px;
+}
+.digital_text p a {
+	color: blue;
+}
 
 
 
